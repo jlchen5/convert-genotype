@@ -104,20 +104,6 @@ CHROM	POS	REF	ALT	KM1502	KM1502_GT	KM1706	KM1706_GT	PY9	PY9_GT	X2016	X2016_GT
 1A	4748766	T	A,G	0/0	T/T	1/2	A/G	./.	./.	0/0	T/T
 ```
 
----
-
-## 依赖
-
-- Python 3.x
-- 无需额外安装第三方库。
-
----
-
-## 作者
-
-- 作者：Your Name
-- 邮箱：your.email@example.com
-- 日期：2023-10-01
 
 ---
 
